@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of india?",
+    "options": ["Delhi", "Mumbai", "Goa", "Bangalore"],
+    "Answer": "Delhi",
+    "status": "U"
+  },
+  {
+    "id": 2,
+    "question": "Who was the first person to go to moon?",
+    "options": ["Gagarin", "Einstein", "Shakespear", "Armstrong"],
+    "Answer": "Armstrong",
+    "status": "U"
+  },
+  {
+    "id": 3,
+    "question": "What is H2O?",
+    "options": ["Oxygen", "Water", "Carbon", "Acid"],
+    "Answer": "Water",
+    "status": "U"
+  },
+  {
+    "id": 4,
+    "question": "Who won cricket world Cup in 2011?",
+    "options": ["Pakistan", "China", "Australia", "India"],
+    "Answer": "India",
+    "status": "U"
+  },
+  {
+    "id": 5,
+    "question": "How many Kilometers are there in 100 miles?",
+    "options": ["1256", "161", "25", "100"],
+    "Answer": "161",
+    "status": "U"
+  }
+]
