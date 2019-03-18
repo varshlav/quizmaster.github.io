@@ -27,11 +27,45 @@
     "Answer": "India",
     "status": "U"
   },
+ {
+  "id": 5,
+  "question": "How many Kilometers are there in 100 miles?",
+  "options": ["1256", "161", "25", "100"],
+  "Answer": "161",
+  "status": "U"
+},
   {
-    "id": 5,
-    "question": "How many Kilometers are there in 100 miles?",
-    "options": ["1256", "161", "25", "100"],
-    "Answer": "161",
+    "id": 6,
+    "question": "Which time zone does Los Angeles lie in?",
+    "options": ["CST", "PST", "MST", "DST"],
+    "Answer": "PST",
+    "status": "U"
+  },
+  {
+    "id": 7,
+    "question": "On Which Day do we celebrate independence day in USA?",
+    "options": ["June 2", "December 25", "May 12", "July 4"],
+    "Answer": "July 4",
+    "status": "U"
+  },
+  {
+    "id": 8,
+    "question": "Which blood group is called the universal donor?",
+    "options": ["A", "B", "O", "AB"],
+    "Answer": "O",
+    "status": "U"
+  }, {
+  "id": 9,
+  "question": "What is the full form of W.W.W. in computer terminology?",
+  "options": ["Wonderful World Web", "World Wide Wrapped", "World Wide Web", "Wiki Web World"],
+  "Answer": "World Wide Web",
+  "status": "U"
+},
+  {
+    "id": 10,
+    "question": "Which is the largest Planet of Solar System?",
+    "options": ["Jupiter", "Mars", "Saturn", "Neptune"],
+    "Answer": "Jupiter",
     "status": "U"
   }
 ]
