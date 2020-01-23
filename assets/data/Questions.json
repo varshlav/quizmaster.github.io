@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "question": "What is the capital of india?",
-    "options": ["Delhi", "Mumbai", "Goa", "Bangalore"],
-    "Answer": "Delhi",
+    "question": "What is the capital of United states of America?",
+    "options": ["Washington D.C.", "New York", "Chicago", "Los Angeles"],
+    "Answer": "Washington D.C.",
     "status": "U"
   },
   {
@@ -15,16 +15,16 @@
   },
   {
     "id": 3,
-    "question": "What is H2O?",
+    "question": "Which compound has a chemical formula as 'H2O'?",
     "options": ["Oxygen", "Water", "Carbon", "Acid"],
     "Answer": "Water",
     "status": "U"
   },
   {
     "id": 4,
-    "question": "Who won cricket world Cup in 2011?",
-    "options": ["Pakistan", "China", "Australia", "India"],
-    "Answer": "India",
+    "question": "Who won the Soccer World Cup in 2018?",
+    "options": ["Brazil", "Italy", "Germany", "France"],
+    "Answer": "France",
     "status": "U"
   },
  {
@@ -50,7 +50,7 @@
   },
   {
     "id": 8,
-    "question": "Which blood group is called the universal donor?",
+    "question": "Which blood group is called as the universal donor?",
     "options": ["A", "B", "O", "AB"],
     "Answer": "O",
     "status": "U"
